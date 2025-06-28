@@ -1,0 +1,50 @@
+.sidebar {
+  min-height: 100vh;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #f0f4f9;
+  padding: 20px 15px;
+}
+.menu {
+  font-size: 20px;
+  margin: 10px 25px 50px;
+  cursor: pointer;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  width: max-content;
+  gap: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 30px;
+}
+.box:hover {
+  background-color: #e6eaf1;
+}
+
+.new-chat {
+  font-size: 15px;
+  font-weight: 600;
+  color: #808283;
+  background-color: #e6eaf1;
+  margin-bottom: 10px;
+}
+.new-chat:hover {
+  background-color: #c5c8cd;
+}
+.bottom .icon {
+  font-size: 20px;
+}
+.bottom span {
+  font-weight: 500;
+  font-size: 15px;
+}
+@media (max-width: 650px) {
+  .sidebar {
+    display: none;
+  }
+}
