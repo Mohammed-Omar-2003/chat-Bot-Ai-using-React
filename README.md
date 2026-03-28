@@ -64,7 +64,7 @@ npm start
 
 
 ```id="7x1yz4"
-![Chat UI](chatui.png)
-![Chat RUN](chatrun.png)
+![ChatUI](chatui.png)
+![ChatRUN](chatrun.png)
 ```
 
