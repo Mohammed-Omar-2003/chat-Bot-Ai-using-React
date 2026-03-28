@@ -63,8 +63,6 @@ npm start
 ## 📸 Screenshots
 
 
-## 📸 Screenshots
-
 ![ChatUI](images/chatui.png)
 ![ChatRUN](images/chatrun.png)
 
