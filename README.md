@@ -34,7 +34,7 @@ It simulates a simplified version of AI assistants like Google Gemini, with a cl
 
 ## 🚀 Live Demo
 
-🔗 https://lnkd.in/drQhKx5r
+🔗 https://zakarne-72f8b.web.app/
 
 ---
 
