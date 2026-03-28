@@ -1,12 +1,69 @@
-# React + Vite
+# AI Chat Bot 🤖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern AI chat application built using React and powered by Google's Gemini 2.0 Flash model. The app provides a simple and interactive chat experience similar to Google Gemini, focused on text-based conversations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview
 
-## Expanding the ESLint configuration
+This project is a frontend AI chat application that allows users to send messages and receive intelligent responses using the Google Generative AI API.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+It simulates a simplified version of AI assistants like Google Gemini, with a clean UI and smooth user experience.
+
+---
+
+## ✨ Features
+
+* 💬 Real-time AI chat interface
+* ⚡ Fast responses using Gemini 2.0 Flash
+* 🧠 Smart text-based answers
+* 🎨 Clean and responsive UI
+* 📦 State management using Redux Toolkit
+
+---
+
+## 🛠️ Technologies Used
+
+* React.js
+* Redux Toolkit
+* React Bootstrap
+* Google Generative AI API
+* Gemini 2.0 Flash
+
+---
+
+## 🚀 Live Demo
+
+🔗 https://lnkd.in/drQhKx5r
+
+---
+
+## ⚙️ Getting Started
+
+Clone the repository:
+
+```bash id="t23fjh"
+git clone https://github.com/your-username/repo-name.git
+```
+
+Install dependencies:
+
+```bash id="k7qx3z"
+npm install
+```
+
+Run the project:
+
+```bash id="2ix2hm"
+npm start
+```
+
+---
+
+## 📸 Screenshots
+
+
+```id="7x1yz4"
+![Chat UI](images/chat.png)
+```
+
